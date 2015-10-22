@@ -1,0 +1,23 @@
+name: leggett
+favicon: null
+layout_spectrum: 0.9263023554813117
+typography_spectrum: 0.222145133651793
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.469747033668682
+  lightness: 0.2648286025505513
+  saturation: 0.7295635743066669
+  rhythmicContrast: 0.07251762272790074
+purpose: []
